@@ -4,3 +4,4 @@ alias icloud='cd ~/Library/Mobile\ Documents/com~apple~CloudDocs'
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 export EDITOR="nvim"
 export VISUAL="nvim"
+export PATH="/path/to/python:$PATH"
