@@ -1,0 +1,6 @@
+background-opacity = 0.75
+font-family = SFMono Nerd Font
+font-size = 16
+macos-icon = blueprint
+theme = tokyonight-storm
+cursor-style = block
