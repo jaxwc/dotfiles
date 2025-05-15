@@ -13,4 +13,5 @@ brew install --cask \
     fantastical \
     clean-shot \
     zen-browser \
-    obsidian
+    obsidian/
+    font-sf-mono-nerd-font
