@@ -13,3 +13,29 @@ live server
 code runner 
 fontsize shortcuts
 GitHub co pilot
+
+{
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "editor.fontFamily": "SFMono Nerd Font",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "workbench.statusBar.visible": false,
+    "workbench.sideBar.location": "right",
+    "workbench.editor.showTabs": "none",
+    "editor.snippetSuggestions": "top",
+    "editor.minimap.enabled": false,
+    "editor.linkedEditing": true,
+    "editor.lineHeight": 0,
+    "workbench.iconTheme": "material-icon-theme",
+    "C_Cpp.default.compilerPath": "/usr/bin/clang",
+    "files.autoSave": "afterDelay",
+    "cSpell.userWords": [
+        "endmodule",
+        "posedge",
+        "testbench"
+    ],
+    "security.workspace.trust.banner": "never",
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.untrustedFiles": "open",
+
+}
