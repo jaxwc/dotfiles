@@ -1,0 +1,21 @@
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+
+brew install --cask \
+    alt-tab \
+    1password \
+    arc \
+    microsoft-excel \
+    microsoft-powerpoint \
+    microsoft-word \
+    raycast \
+    spotify \
+    chatgpt \
+    xcode \
+    things \
+    leg-cord \
+    ghostty \
+    fantastical \
+    clean-shot \
+    zen \
+    obsidian
