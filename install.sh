@@ -18,6 +18,8 @@ brew install --cask nikitabobko/tap/aerospace
 brew tap epk/epk
 brew install font-sf-mono-nerd-font
 
+brew install sf-symbols
+
 brew install nvim
 brew install tmux
 brew install starship
@@ -28,5 +30,6 @@ brew install python
 brew install node
 brew install imagemagick
 brew install lua
+brew install ripgrep
 
 #brew install alt-tab
