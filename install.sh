@@ -7,8 +7,7 @@ brew install obsidian
 brew install raycast
 brew install spotify
 brew install visual-studio-code
-brew install 
-brew install alt-tab
+brew install legcord
 
 brew tap FelixKratz/formulae
 brew install sketchybar
@@ -21,3 +20,7 @@ brew install font-sf-mono-nerd-font
 
 brew install nvim
 brew install tmux
+brew install starship
+
+
+#brew install alt-tab
