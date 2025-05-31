@@ -24,5 +24,9 @@ brew install starship
 
 brew install zsh-autosuggestions
 
+brew install python
+brew install node
+brew install imagemagick
+brew install lua
 
 #brew install alt-tab
