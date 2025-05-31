@@ -49,7 +49,7 @@
   },
 
 
-   "custom-ui-style.font": "SFMono Nerd Font",
+   "custom-ui-style.font.sansSerif": "SFMono",
    "editor.cursorBlinking": "solid",
    "editor.cursorStyle": "block",
    "workbench.colorCustomizations": {
@@ -74,7 +74,7 @@
 
   },
 
-   "editor.fontFamily": "sf-mono-nerd-font",
+   "editor.fontFamily": "SFMono Nerd Font",
    "editor.fontSize": 12,
    "editor.fontLigatures": true,
    "editor.tokenColorCustomizations": {
@@ -110,6 +110,5 @@
   "update.mode": "none",
   "extensions.ignoreRecommendations": true,
   "security.workspace.trust.enabled": false,
-
-
+  "liveServer.settings.donotShowInfoMsg": true,
 }
