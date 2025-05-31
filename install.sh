@@ -1,7 +1,7 @@
 brew install zen-browser
 brew install 1password@beta
 brew install ghostty
-brew install cleanshotx
+brew install cleanshot
 brew install fantastical
 brew install obsidian
 brew install raycast
