@@ -2,7 +2,7 @@
 
 brew install 1password@beta
 brew install alt-tab
-brew install arc
+brew install zen-browser
 brew install cleanshotx
 brew install fantastical
 brew install ghostty
