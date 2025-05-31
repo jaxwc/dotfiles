@@ -22,5 +22,7 @@ brew install nvim
 brew install tmux
 brew install starship
 
+brew install zsh-autosuggestions
+
 
 #brew install alt-tab
