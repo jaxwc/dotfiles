@@ -8,6 +8,7 @@ brew install raycast
 brew install spotify
 brew install visual-studio-code
 brew install legcord
+brew install linearmouse
 
 brew tap FelixKratz/formulae
 brew install sketchybar
