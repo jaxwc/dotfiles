@@ -9,6 +9,8 @@ brew install spotify
 brew install visual-studio-code
 brew install legcord
 brew install linearmouse
+brew install alt-tab
+
 
 brew tap FelixKratz/formulae
 brew install sketchybar
@@ -18,8 +20,9 @@ brew install --cask nikitabobko/tap/aerospace
 
 brew tap epk/epk
 brew install font-sf-mono-nerd-font
-
+brew install font-sketchybar-app-font
 brew install sf-symbols
+
 
 brew install nvim
 brew install tmux
@@ -32,5 +35,3 @@ brew install node
 brew install imagemagick
 brew install lua
 brew install ripgrep
-
-#brew install alt-tab
