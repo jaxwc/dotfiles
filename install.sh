@@ -39,3 +39,6 @@ brew install node
 brew install imagemagick
 brew install lua
 brew install ripgrep
+brew install git
+brew install ifstat
+brew install switchaudio-osx
