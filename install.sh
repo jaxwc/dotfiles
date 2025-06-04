@@ -1,15 +1,18 @@
-brew install zen-browser
+brew install 1password-cli
 brew install 1password@beta
-brew install ghostty
+brew install aerospace
+brew install alt-tab
 brew install cleanshot
 brew install fantastical
+brew install ghostty
+brew install gimp
+brew install legcord
+brew install linearmouse
 brew install obsidian
 brew install raycast
 brew install spotify
 brew install visual-studio-code
-brew install legcord
-brew install linearmouse
-brew install alt-tab
+brew install zen
 
 
 brew tap FelixKratz/formulae
@@ -20,6 +23,7 @@ brew install --cask nikitabobko/tap/aerospace
 
 brew tap epk/epk
 brew install font-sf-mono-nerd-font
+brew install font-sf-pro
 brew install font-sketchybar-app-font
 brew install sf-symbols
 
