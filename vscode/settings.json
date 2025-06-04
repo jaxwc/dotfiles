@@ -111,4 +111,9 @@
   "extensions.ignoreRecommendations": true,
   "security.workspace.trust.enabled": false,
   "liveServer.settings.donotShowInfoMsg": true,
+  "discord.lowerDetailsIdling": "Coding",
+  "discord.lowerDetailsEditing": "Coding",
+  "discord.lowerDetailsDebugging": "Coding",
+  "discord.largeImageIdling": "Coding",
+  "discord.detailsIdling": "Coding",
 }
