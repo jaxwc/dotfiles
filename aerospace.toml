@@ -63,12 +63,16 @@ automatically-unhide-macos-hidden-apps = true
 #                 See:
 #                 https://nikitabobko.github.io/AeroSpace/guide#assign-workspaces-to-monitors
 [gaps]
-    inner.horizontal = 12
-    inner.vertical =   12
-    outer.left =       8
-    outer.bottom =     8
-    outer.top =        8
-    outer.right =      8
+    inner.horizontal = 10
+    inner.vertical = 10
+    outer.left = 10
+    outer.bottom = 10
+    outer.top = [
+    	{monitor."LG HDR 4k" = 40},
+	{monitor."VG259QM" = 40},
+	10,
+	]
+    outer.right = 10
 
 [workspace-to-monitor-force-assignment]
 1 = 'main'
@@ -166,3 +170,17 @@ run = 'layout floating'
 [[on-window-detected]]
 if.app-name-regex-substring = 'messages'
 run = 'layout floating'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'ghostty'
+run = 'move-node-to-workspace 2'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'zen'
+run = 'move-node-to-workspace 1'
+
+[[on-window-detected]]
+if.app-name-regex-substring = 'code'
+run = 'move-node-to-workspace 3'
+
+
