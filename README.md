@@ -1,12 +1,12 @@
-# My macOS Dotfiles
+# dotfiles
 
 ![ScreenShot](./assets/screenshot1.png)
 ![ScreenShot](./assets/screenshot2.png)
 
 ## Programs and Tools
 
-- **Window Manager**: [aerospace](https://github.com/nikitabobko/AeroSpace)
-- **Status Bar**: [sketchybar](https://github.com/FelixKratz/SketchyBar)
-- **Terminal**: [ghostty](https://github.com/ghostty-org/ghostty)
-- **Shell**: zsh
-- **Text Editors**: Neovim, VSC
+* [SketchyBar](https://github.com/FelixKratz/SketchyBar)
+* [JankyBorders](https://github.com/FelixKratz/JankyBorders)
+* [aerospace](https://github.com/nikitabobko/AeroSpace)
+* [ghostty](https://github.com/ghostty-org/ghostty)
+
