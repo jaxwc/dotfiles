@@ -1,5 +1,9 @@
 # dotfiles
-<img src="screenshot1.png" width="200"/> <img src="screenshot2.png" width="300"/>
+<p align="center">
+  <img src="./assets/screenshot1.png" alt="Screenshot 1 Description" width="48%">
+  &nbsp; &nbsp; &nbsp; <!-- Add some space between images -->
+  <img src="./assets/screenshot2.png" alt="Screenshot 2 Description" width="48%">
+</p>
 
 
 - **window manager**: [aerospace](https://github.com/nikitabobko/AeroSpace)
