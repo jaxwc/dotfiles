@@ -1,7 +1,5 @@
 # dotfiles
-
-![ScreenShot](./assets/screenshot1.png)
-![ScreenShot](./assets/screenshot2.png)
+<img src="screenshot1.png" width="200"/> <img src="screenshot2.png" width="300"/>
 
 
 - **window manager**: [aerospace](https://github.com/nikitabobko/AeroSpace)
