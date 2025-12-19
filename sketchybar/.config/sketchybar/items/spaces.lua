@@ -81,8 +81,7 @@ for i, workspace in ipairs(workspaces) do
 
     -- Padding space between each item
     sbar.add("item", "item." .. i .. "padding", {
-        script = "",
-        width = settings.items.gap
+        script = "", width = settings.items.gap
     })
 
     -- Item popup
