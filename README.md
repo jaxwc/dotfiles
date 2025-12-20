@@ -1,6 +1,6 @@
 # My dotfiles
 
-![ScreenShot](./assets/tokyonight.jpg)
+![ScreenShot](./assets/screenshot1.png)
 
 # Install with Script
 
