@@ -2,7 +2,7 @@
 
 ![ScreenShot](./assets/screenshot.png)
 
-# Install with Script
+# Install with Script(still working on this)
 
 Run the following
 - optional: Install Xcode command line tools beforehand `xcode-select --install`
