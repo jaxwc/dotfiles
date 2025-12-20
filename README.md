@@ -1,5 +1,7 @@
 # My dotfiles
 
+![ScreenShot](./wallpaper/tokyonight.png)
+
 # Install with Script
 
 Run the following
