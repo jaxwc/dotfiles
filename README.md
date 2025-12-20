@@ -8,5 +8,6 @@ Run the following
         - `sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
     - Intall git & stow
         - 'brew install git gh stow'
+        - gh auth login
         - git clone https://github.com/jaxwc/dotfiles.git ~/.dotfiles
         - cd ~/.dotfiles -> chmod +x install.sh -> ./install.sh
