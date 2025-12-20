@@ -1,5 +1,6 @@
 # My dotfiles
 
+![ScreenShot](./assets/screenshot.png)
 
 # Install with Script
 
