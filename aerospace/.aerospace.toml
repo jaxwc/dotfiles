@@ -70,7 +70,7 @@ automatically-unhide-macos-hidden-apps = true
     outer.bottom = 10
     outer.top = [
     {monitor."LG HDR 4k" = 40},
-	{monitor."VG259QM" = 40},
+	{monitor."LG ULTRAGEAR+" = 40},
 	10,
 	]
     outer.right = 10
