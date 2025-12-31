@@ -4,7 +4,7 @@ font-size = 14
 font-family = JetBrainsMono Nerd Font
 background-opacity = 0.70
 # background = #000000
-background-blur-radius = 20
+ background-blur-radius = 20
 # background-blur = macos-glass-clear
 
 cursor-style = block
